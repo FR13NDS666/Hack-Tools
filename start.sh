@@ -1,7 +1,7 @@
 #!/bin/bash
-#Code:YamanEfkar
-#İnstagram: @yamanefkarr
-#Youtube : Yamanefkar
+#Code:FR13NDS
+#İnstagram: andink amubia
+#Youtube : Chandra gaming
 echo -e '\033[31;40;1m 
 		   ─────█─▄▀█──█▀▄─█─────
 		   ────▐▌──────────▐▌────
@@ -9,10 +9,10 @@ echo -e '\033[31;40;1m
 		   ───▐██──▀▀──▀▀──██▌───
 		   ──▄████▄──▐▌──▄████▄──
 
-      \e[35m      ☠         Code  : YamanEfkar     ☠
-	  \e[34m☠	     Github : YamanEfkar       ☠
-	 \e[33m☠  	    Youtube : YamanEfkar        ☠
-	\e[32m☠ 	   İnstagram : @yamanefkarr      ☠
+      \e[35m      ☠         Code  : FR13NDS     ☠
+	  \e[34m☠	     Github : FR13NDS666       ☠
+	 \e[33m☠  	    Youtube : Chandra gaming       ☠
+	\e[32m☠ 	   İnstagram : @andini amunia      ☠
 	
 	\e[36m 	 ☾★ ☾★ Türk Siber Timi ☾★ ☾★	
 
